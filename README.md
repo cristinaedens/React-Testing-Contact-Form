@@ -6,6 +6,15 @@
 
 ## Objectives
 
+
+How Many Tests Did You Write?
+•I wrote 2 individual tests and had to debug the app.test as well
+
+
+Why did you write that # of tests? Defend your stance - make sure you're comfortable with testing!
+•I wrote this many tests because it was for all input fields including the button. No I am not comfortable with testing but then again, who would be after one day.
+
+
 - explain what automated testing is and its importance
 - use react-testing-library for testing react components
 - use react-testing-library to test user interactions with fireEvent
